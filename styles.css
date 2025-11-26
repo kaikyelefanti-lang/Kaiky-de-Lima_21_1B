@@ -5,4 +5,7 @@ background:lightblue;
 header{
     border-bottom: solid 2px rgb(rgb(97, 39, 39), rgb(0, 115, 128), rgb(110, 217, 77));
     padding: 20px;
+    font-size: 32px;
+    color: blue;
+    background: blueviolet;
 }
