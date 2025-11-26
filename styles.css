@@ -7,5 +7,12 @@ header{
     padding: 20px;
     font-size: 32px;
     color: blue;
-    background: blueviolet;
+    background-color: blueviolet;
+}
+.chamada{
+background-color: cadetblue;
+padding-top: 100px;
+padding-bottom: 100px;
+display: flex;
+justify-content: center;
 }
